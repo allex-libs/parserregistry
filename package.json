@@ -1,0 +1,25 @@
+{
+  "name": "allex_parserregistrylib",
+  "version": "1.0.0",
+  "description": "AllexJS lib that introduces the parser registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/allex-libs/parserregistry.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "parser",
+    "registry",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-libs/parserregistry/issues"
+  },
+  "homepage": "https://github.com/allex-libs/parserregistry#readme"
+}
